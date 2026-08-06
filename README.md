@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Shaswata @Dexdoxesthem
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me boombhai0000@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ai is co pilot not autopilot
+# 💫 About Me:
+# Hi there, I'm Shaswata Pal 👋<br><br>**Quantitative Finance Enthusiast | Data & Strategy | Builder**<br><br>Welcome to my GitHub! I am a finance professional and developer bridging the gap between accounting, economics, and data-driven intelligence. I'm passionate about market microstructure, stochastic modeling, and building full-stack automation tools.<br><br>### 🚀 About Me<br><br>* 🎓 Completing my **B.Com in Accounting and Finance**, and currently preparing for the IIT-JAM to pursue an MSc in Economics/Statistics.<br>* 💼 **Equity Research Analyst Intern** at ZeTheta Algorithms.<br>* 📈 **Chief Operating Officer** at White Brick Forum (WBF), a research-oriented think tank.<br>* 🏗️ Founder and builder of **Argux Technologies** (SaaS/Intelligence) under Archangel International.<br>* 🧠 Currently exploring quantitative finance models, backend development, and "vibe coding" local LLM systems.<br>* ⚡ **Fun Facts:** Outside of markets and code, I am a massive 20th-century history buff (WWII & Cold War), a survival game strategist (S.T.A.L.K.E.R. G.A.M.M.A.), and I've been playing the acoustic guitar for six years.<br><br>---<br><br>### 💻 Tech Stack & Tools<br><br>* **Languages:** Python, R, SQL<br>* **Focus Areas:** Quantitative Analysis, Stochastic Modeling, Full-Stack Development, Workflow Automation, Local LLMs<br>* **Business & Strategy:** Operations Management, Market Research, Branding<br><br>---<br><br>### 📊 GitHub Stats<br><br><div align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Your GitHub Streak" /><br></div><br><br>*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle to activate the stat cards).*<br><br>---<br><br>### 📬 Let's Connect<br><br>* **LinkedIn:** [linkedin.com/in/your-profile](#) *(Add your link here)*<br>* **Email:** [your.email@example.com](mailto:your.email@example.com) *(Add your email here)*<br><br>💬 Ask me about: **Market Microstructure, Data-Driven Business Models, or Cold War History.**
 
-<!---
-Dexdoxesthem/Dexdoxesthem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dexdoxesthem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=dexdoxesthem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dexdoxesthem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dexdoxesthem&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dexdoxesthem&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=dexdoxesthem&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
